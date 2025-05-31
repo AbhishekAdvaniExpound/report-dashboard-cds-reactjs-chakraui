@@ -1,0 +1,6 @@
+ID,region,product,sales,quantity,date
+a1,north,Phone,120000,60,2024-10-01
+a2,south,Tablet,45000,30,2024-10-02
+a3,north,Laptop,160000,20,2024-10-03
+a4,west,Monitor,40000,15,2024-10-04
+a5,south,Phone,90000,40,2024-10-05
